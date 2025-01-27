@@ -1,0 +1,2 @@
+#define cpp_string_search_VERSION_MAJOR @cpp_string_search_VERSION_MAJOR@
+#define cpp_string_search_VERSION_MINOR @cpp_string_search_VERSION_MINOR@
